@@ -4,8 +4,8 @@ namespace Gambler
 {
     public class Gambler
     {
-        int player1;
-        int Everyday = 100;
-        int EachGame = 1;
+        public int player1;
+        public int Everyday = 100;
+        public int EachGame = 1;
     }
 }
