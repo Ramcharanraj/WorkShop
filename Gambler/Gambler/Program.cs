@@ -8,6 +8,9 @@ namespace Gambler
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Gambler Problem");
+
+            Gambler gamble = new Gambler();
+            gamble.Startplay();
             
         }
     }
